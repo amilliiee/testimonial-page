@@ -49,7 +49,7 @@ body {
 }
 .section .blurb {
   font-size: 1.25rem;
-  line-height: 1.75rem;
+  line-height: 175%;
   padding-right: 8px;
   margin-bottom: 32px;
 }
